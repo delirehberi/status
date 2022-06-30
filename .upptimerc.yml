@@ -11,6 +11,14 @@ sites:
     url: https://www.eresbiotech.com
   - name: Tarihi Sanat
     url: https://tarihisanat.com
+  - name: Ekog
+    url: https://ekog.org
+  - name: Webend
+    url: https://webend.org
+  - name: Bilim Kadinlari
+    url: https://bilimkadinlari.com
+  - name: Hedef
+    url: https://hedef.im
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -18,9 +26,9 @@ status-website:
   cname: status.emre.xyz
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status.Emre.xyz
+  name: Delirehberi
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: Uptime info of my sites.
   navbar:
     - title: Status
       href: /
