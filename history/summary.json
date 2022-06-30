@@ -22,18 +22,20 @@
     "url": "https://bilimma.com",
     "icon": "https://favicons.githubusercontent.com/bilimma.com",
     "slug": "bilimma",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3821,
-    "timeDay": 3821,
-    "timeWeek": 3821,
-    "timeMonth": 3821,
-    "timeYear": 3821,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.78%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 2893,
+    "timeDay": 2893,
+    "timeWeek": 2893,
+    "timeMonth": 2893,
+    "timeYear": 2893,
+    "dailyMinutesDown": {
+      "2022-06-30": 0
+    }
   },
   {
     "name": "Eres",
@@ -70,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-30": 51
+      "2022-06-30": 77
     }
   },
   {
