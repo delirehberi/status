@@ -1,6 +1,6 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: delirehberi # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
 
 sites:
   - name: Emre.xyz
@@ -23,7 +23,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.emre.xyz
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://pbs.twimg.com/profile_images/1442868043965612033/5m2ytVRa_400x400.jpg
   name: Delirehberi
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: Uptime info of my sites.
