@@ -14,9 +14,7 @@ sites:
   - name: Ekog
     url: https://ekog.org
   - name: Webend
-    url: https://webend.org
-  - name: Bilim Kadinlari
-    url: https://bilimkadinlari.com
+    url: https://webend.org 
   - name: Hedef
     url: https://hedef.im
 
