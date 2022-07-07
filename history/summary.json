@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/emre.xyz",
     "slug": "emre-xyz",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.51%",
+    "uptimeDay": "96.82%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.51%",
     "time": 681,
     "timeDay": 652,
     "timeWeek": 681,
     "timeMonth": 681,
     "timeYear": 681,
     "dailyMinutesDown": {
-      "2022-07-06": 2
+      "2022-07-07": 2,
+      "2022-07-06": 43
     }
   },
   {
@@ -46,18 +47,19 @@
     "icon": "https://favicons.githubusercontent.com/www.eresbiotech.com",
     "slug": "eres",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.52%",
+    "uptimeDay": "96.86%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.52%",
     "time": 1328,
     "timeDay": 1550,
     "timeWeek": 1328,
     "timeMonth": 1328,
     "timeYear": 1328,
     "dailyMinutesDown": {
-      "2022-07-06": 1
+      "2022-07-07": 2,
+      "2022-07-06": 43
     }
   },
   {
@@ -66,18 +68,19 @@
     "icon": "https://favicons.githubusercontent.com/tarihisanat.com",
     "slug": "tarihi-sanat",
     "status": "down",
-    "uptime": "97.45%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "97.45%",
-    "uptimeMonth": "97.45%",
-    "uptimeYear": "97.45%",
+    "uptime": "96.99%",
+    "uptimeDay": "96.90%",
+    "uptimeWeek": "96.99%",
+    "uptimeMonth": "96.99%",
+    "uptimeYear": "96.99%",
     "time": 881,
     "timeDay": 1030,
     "timeWeek": 881,
     "timeMonth": 881,
     "timeYear": 881,
     "dailyMinutesDown": {
-      "2022-07-06": 1,
+      "2022-07-07": 2,
+      "2022-07-06": 42,
       "2022-06-30": 237
     }
   },
@@ -87,18 +90,19 @@
     "icon": "https://favicons.githubusercontent.com/ekog.org",
     "slug": "ekog",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.53%",
+    "uptimeDay": "96.94%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.53%",
     "time": 1339,
     "timeDay": 1240,
     "timeWeek": 1339,
     "timeMonth": 1339,
     "timeYear": 1339,
     "dailyMinutesDown": {
-      "2022-07-06": 0
+      "2022-07-07": 2,
+      "2022-07-06": 42
     }
   },
   {
