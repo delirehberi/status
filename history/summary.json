@@ -4,10 +4,10 @@
     "url": "https://emre.xyz",
     "icon": "https://favicons.githubusercontent.com/emre.xyz",
     "slug": "emre-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "94.08%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "90.74%",
     "uptimeYear": "94.08%",
     "time": 675,
@@ -16,6 +16,7 @@
     "timeMonth": 676,
     "timeYear": 675,
     "dailyMinutesDown": {
+      "2022-08-31": 2,
       "2022-08-08": 841,
       "2022-08-07": 1440,
       "2022-08-06": 1440,
@@ -29,10 +30,10 @@
     "url": "https://bilimma.com",
     "icon": "https://favicons.githubusercontent.com/bilimma.com",
     "slug": "bilimma",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 2972,
@@ -41,6 +42,7 @@
     "timeMonth": 3205,
     "timeYear": 2972,
     "dailyMinutesDown": {
+      "2022-08-31": 1,
       "2022-07-01": 26,
       "2022-06-30": 18
     }
@@ -50,9 +52,9 @@
     "url": "https://www.eresbiotech.com",
     "icon": "https://favicons.githubusercontent.com/www.eresbiotech.com",
     "slug": "eres",
-    "status": "up",
+    "status": "down",
     "uptime": "98.66%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.66%",
@@ -62,6 +64,7 @@
     "timeMonth": 1526,
     "timeYear": 1516,
     "dailyMinutesDown": {
+      "2022-08-31": 0,
       "2022-07-07": 1144,
       "2022-07-06": 43
     }
