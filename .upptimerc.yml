@@ -17,6 +17,32 @@ sites:
     url: https://webend.org 
   - name: Hedef
     url: https://hedef.im
+  - name: acikbelediye
+    url: https://acikbelediye.com
+  - name: Workouse
+    url: https://workouse.com
+  - name: Electrouse
+    url: https://electrouse.com
+  - name: Elcin Eksi
+    url: https://elcineksi.com
+  - name: Arkeozooloji
+    url: https://arkeozooloji.com
+  - name: Ankaranin Dogasi
+    url: https://ankaranindogasi.com
+  - name: History of art
+    url: https://historyofart.emre.xyz
+  - name: Aydin Yazilimci Agi
+    url: https://aya.emre.xyz
+  - name: Certifly
+    url: https://getcertifly.com
+  - name: Bioinformy
+    url: https://bioinformy.com
+  - name: Bilim Kadinlari
+    url: https://bilimkadinlari.com
+  - name: Adu STT
+    url: https://adustt.com
+  - name: Ses Seda
+    url: https://sesseda.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -32,6 +58,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Blog
+      href: https://emre.xyz
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
