@@ -138,8 +138,8 @@
     "slug": "webend",
     "status": "up",
     "uptime": "84.06%",
-    "uptimeDay": "2.73%",
-    "uptimeWeek": "0.39%",
+    "uptimeDay": "3.74%",
+    "uptimeWeek": "0.53%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "84.06%",
     "time": 378,
@@ -240,7 +240,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-05": 47
+      "2023-04-05": 62
     }
   },
   {
@@ -302,19 +302,19 @@
     "url": "https://arkeozooloji.com",
     "icon": "https://icons.duckduckgo.com/ip3/arkeozooloji.com.ico",
     "slug": "arkeozooloji",
-    "status": "down",
-    "uptime": "0.08%",
-    "uptimeDay": "0.08%",
-    "uptimeWeek": "0.08%",
-    "uptimeMonth": "0.08%",
-    "uptimeYear": "0.08%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.26%",
+    "uptimeDay": "1.26%",
+    "uptimeWeek": "1.26%",
+    "uptimeMonth": "1.26%",
+    "uptimeYear": "1.26%",
+    "time": 460,
+    "timeDay": 460,
+    "timeWeek": 460,
+    "timeMonth": 460,
+    "timeYear": 460,
     "dailyMinutesDown": {
-      "2023-04-05": 47
+      "2023-04-05": 61
     }
   },
   {
@@ -377,11 +377,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/getcertifly.com.ico",
     "slug": "certifly",
     "status": "up",
-    "uptime": "1.84%",
-    "uptimeDay": "1.84%",
-    "uptimeWeek": "1.84%",
-    "uptimeMonth": "1.84%",
-    "uptimeYear": "1.84%",
+    "uptime": "25.06%",
+    "uptimeDay": "25.06%",
+    "uptimeWeek": "25.06%",
+    "uptimeMonth": "25.06%",
+    "uptimeYear": "25.06%",
     "time": 3371,
     "timeDay": 3371,
     "timeWeek": 3371,
@@ -416,9 +416,9 @@
     "slug": "bilim-kadinlari",
     "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "1.10%",
-    "uptimeWeek": "1.10%",
-    "uptimeMonth": "1.10%",
+    "uptimeDay": "0.85%",
+    "uptimeWeek": "0.85%",
+    "uptimeMonth": "0.85%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -426,7 +426,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-05": 46,
+      "2023-04-05": 61,
       "2022-06-30": 2
     }
   },
