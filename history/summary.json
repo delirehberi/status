@@ -145,7 +145,7 @@
     "uptime": "84.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "43.42%",
+    "uptimeMonth": "43.44%",
     "uptimeYear": "84.81%",
     "time": 399,
     "timeDay": 840,
@@ -245,7 +245,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-19": 626,
+      "2023-04-19": 635,
       "2023-04-18": 1440,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
@@ -421,19 +421,19 @@
     "url": "https://bioinformy.com",
     "icon": "https://icons.duckduckgo.com/ip3/bioinformy.com.ico",
     "slug": "bioinformy",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 663,
-    "timeDay": 419,
-    "timeWeek": 422,
-    "timeMonth": 663,
-    "timeYear": 663,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 635,
+    "timeDay": 317,
+    "timeWeek": 396,
+    "timeMonth": 635,
+    "timeYear": 635,
     "dailyMinutesDown": {
-      "2023-04-19": 1
+      "2023-04-19": 8
     }
   },
   {
@@ -453,7 +453,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-19": 627,
+      "2023-04-19": 635,
       "2023-04-18": 1440,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
@@ -484,7 +484,7 @@
     "uptimeYear": "99.79%",
     "time": 1738,
     "timeDay": 1571,
-    "timeWeek": 1776,
+    "timeWeek": 1821,
     "timeMonth": 1738,
     "timeYear": 1738,
     "dailyMinutesDown": {
@@ -504,7 +504,7 @@
     "uptimeYear": "99.79%",
     "time": 1020,
     "timeDay": 927,
-    "timeWeek": 1015,
+    "timeWeek": 1017,
     "timeMonth": 1020,
     "timeYear": 1020,
     "dailyMinutesDown": {
