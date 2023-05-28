@@ -1,7 +1,7 @@
 url: https://www.eresbiotech.com
-status: up
-code: 200
-responseTime: 26381
-lastUpdated: 2023-05-28T15:18:40.334Z
+status: down
+code: 500
+responseTime: 28375
+lastUpdated: 2023-05-28T15:28:06.070Z
 startTime: Thu Jun 30 2022 11:52:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
