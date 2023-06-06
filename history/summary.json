@@ -68,19 +68,19 @@
     "url": "https://www.eresbiotech.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.eresbiotech.com.ico",
     "slug": "eres",
-    "status": "up",
+    "status": "down",
     "uptime": "98.69%",
-    "uptimeDay": "93.28%",
-    "uptimeWeek": "70.64%",
-    "uptimeMonth": "85.31%",
+    "uptimeDay": "92.93%",
+    "uptimeWeek": "70.65%",
+    "uptimeMonth": "85.35%",
     "uptimeYear": "98.69%",
     "time": 12870,
     "timeDay": 27156,
-    "timeWeek": 24388,
+    "timeWeek": 24422,
     "timeMonth": 23095,
     "timeYear": 12870,
     "dailyMinutesDown": {
-      "2023-06-06": 96,
+      "2023-06-06": 101,
       "2023-06-04": 348,
       "2023-06-03": 867,
       "2023-06-02": 1122,
@@ -90,7 +90,7 @@
       "2023-05-28": 953,
       "2023-05-27": 930,
       "2023-05-26": 844,
-      "2023-05-25": 195
+      "2023-05-25": 172
     }
   },
   {
@@ -287,7 +287,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-06": 759,
+      "2023-06-06": 775,
       "2023-06-05": 1440,
       "2023-06-04": 1440,
       "2023-06-03": 1440,
@@ -581,7 +581,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-06": 760,
+      "2023-06-06": 775,
       "2023-06-05": 1440,
       "2023-06-04": 1440,
       "2023-06-03": 1440,
