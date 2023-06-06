@@ -70,17 +70,17 @@
     "slug": "eres",
     "status": "up",
     "uptime": "98.69%",
-    "uptimeDay": "92.57%",
-    "uptimeWeek": "71.32%",
-    "uptimeMonth": "85.34%",
+    "uptimeDay": "93.28%",
+    "uptimeWeek": "71.49%",
+    "uptimeMonth": "85.31%",
     "uptimeYear": "98.69%",
     "time": 12953,
     "timeDay": 27328,
-    "timeWeek": 24786,
+    "timeWeek": 24711,
     "timeMonth": 23145,
     "timeYear": 12953,
     "dailyMinutesDown": {
-      "2023-06-06": 106,
+      "2023-06-06": 96,
       "2023-06-04": 348,
       "2023-06-03": 867,
       "2023-06-02": 1122,
@@ -90,7 +90,7 @@
       "2023-05-28": 953,
       "2023-05-27": 930,
       "2023-05-26": 844,
-      "2023-05-25": 172
+      "2023-05-25": 195
     }
   },
   {
@@ -287,7 +287,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-06": 1043,
+      "2023-06-06": 1054,
       "2023-06-05": 1440,
       "2023-06-04": 1440,
       "2023-06-03": 1440,
@@ -582,7 +582,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-06": 1043,
+      "2023-06-06": 1054,
       "2023-06-05": 1440,
       "2023-06-04": 1440,
       "2023-06-03": 1440,
@@ -689,10 +689,10 @@
     "url": "https://sesseda.org",
     "icon": "https://icons.duckduckgo.com/ip3/sesseda.org.ico",
     "slug": "ses-seda",
-    "status": "up",
+    "status": "down",
     "uptime": "96.03%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "84.64%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "84.63%",
     "uptimeMonth": "92.09%",
     "uptimeYear": "96.03%",
     "time": 15353,
@@ -701,6 +701,7 @@
     "timeMonth": 20583,
     "timeYear": 15353,
     "dailyMinutesDown": {
+      "2023-06-06": 1,
       "2023-06-04": 24,
       "2023-06-03": 636,
       "2023-06-02": 539,
