@@ -13,7 +13,7 @@
     "time": 331,
     "timeDay": 89,
     "timeWeek": 105,
-    "timeMonth": 125,
+    "timeMonth": 126,
     "timeYear": 257,
     "dailyMinutesDown": {
       "2024-06-19": 17,
@@ -347,18 +347,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tarihisanat.com.ico",
     "slug": "tarihi-sanat",
     "status": "down",
-    "uptime": "58.47%",
+    "uptime": "58.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "76.25%",
+    "uptimeMonth": "76.13%",
     "uptimeYear": "15.61%",
     "time": 2244,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1146,
+    "timeMonth": 1132,
     "timeYear": 492,
     "dailyMinutesDown": {
-      "2024-07-30": 1417,
+      "2024-07-31": 29,
+      "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
       "2024-07-27": 1440,
@@ -669,8 +670,7 @@
       "2023-08-05": 1440,
       "2023-08-04": 1440,
       "2023-08-03": 1440,
-      "2023-08-02": 1440,
-      "2023-08-01": 1440
+      "2023-08-02": 1440
     }
   },
   {
@@ -942,8 +942,7 @@
       "2023-08-05": 1440,
       "2023-08-04": 1440,
       "2023-08-03": 1440,
-      "2023-08-02": 1440,
-      "2023-08-01": 1440
+      "2023-08-02": 1440
     }
   },
   {
@@ -1223,7 +1222,7 @@
     "uptime": "8.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "11.01%",
     "time": 789,
     "timeDay": 0,
@@ -1231,7 +1230,8 @@
     "timeMonth": 0,
     "timeYear": 789,
     "dailyMinutesDown": {
-      "2024-07-30": 1417,
+      "2024-07-31": 29,
+      "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
       "2024-07-27": 1440,
@@ -1557,8 +1557,7 @@
       "2023-08-05": 1440,
       "2023-08-04": 1440,
       "2023-08-03": 1440,
-      "2023-08-02": 1440,
-      "2023-08-01": 1440
+      "2023-08-02": 1440
     }
   },
   {
@@ -1575,7 +1574,7 @@
     "time": 563,
     "timeDay": 731,
     "timeWeek": 839,
-    "timeMonth": 855,
+    "timeMonth": 861,
     "timeYear": 582,
     "dailyMinutesDown": {
       "2024-04-22": 1067,
@@ -1996,7 +1995,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/arkeozooloji.com.ico",
     "slug": "arkeozooloji",
     "status": "down",
-    "uptime": "56.25%",
+    "uptime": "56.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -2229,11 +2228,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ankaranindogasi.com.ico",
     "slug": "ankaranin-dogasi",
     "status": "down",
-    "uptime": "35.98%",
+    "uptime": "35.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "28.82%",
+    "uptimeYear": "28.83%",
     "time": 7186,
     "timeDay": 0,
     "timeWeek": 0,
@@ -2498,8 +2497,7 @@
       "2023-08-05": 1440,
       "2023-08-04": 1440,
       "2023-08-03": 1440,
-      "2023-08-02": 1440,
-      "2023-08-01": 1440
+      "2023-08-02": 1440
     }
   },
   {
@@ -2511,15 +2509,16 @@
     "uptime": "44.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "32.02%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "32.01%",
     "time": 3731,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 992,
     "dailyMinutesDown": {
-      "2024-07-30": 1417,
+      "2024-07-31": 29,
+      "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
       "2024-07-27": 1440,
@@ -2784,15 +2783,16 @@
     "uptime": "28.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "5.73%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "5.72%",
     "time": 146,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2024-07-30": 1417,
+      "2024-07-31": 29,
+      "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
       "2024-07-27": 1440,
@@ -3153,7 +3153,7 @@
     "time": 576,
     "timeDay": 360,
     "timeWeek": 417,
-    "timeMonth": 461,
+    "timeMonth": 465,
     "timeYear": 535,
     "dailyMinutesDown": {
       "2024-07-02": 597,
@@ -3268,7 +3268,7 @@
     "time": 382,
     "timeDay": 207,
     "timeWeek": 289,
-    "timeMonth": 387,
+    "timeMonth": 395,
     "timeYear": 372,
     "dailyMinutesDown": {
       "2023-12-03": 67,
@@ -3281,11 +3281,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bilimkadinlari.com.ico",
     "slug": "bilim-kadinlari",
     "status": "down",
-    "uptime": "21.81%",
+    "uptime": "21.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "28.55%",
+    "uptimeYear": "28.56%",
     "time": 1131,
     "timeDay": 0,
     "timeWeek": 0,
@@ -3560,8 +3560,7 @@
       "2023-08-05": 1440,
       "2023-08-04": 1440,
       "2023-08-03": 1440,
-      "2023-08-02": 1440,
-      "2023-08-01": 1440
+      "2023-08-02": 1440
     }
   },
   {
@@ -3570,11 +3569,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/adustt.com.ico",
     "slug": "adu-stt",
     "status": "down",
-    "uptime": "49.71%",
+    "uptime": "49.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "42.27%",
+    "uptimeYear": "42.28%",
     "time": 3804,
     "timeDay": 0,
     "timeWeek": 0,
@@ -3800,8 +3799,7 @@
       "2023-08-05": 1440,
       "2023-08-04": 1440,
       "2023-08-03": 1440,
-      "2023-08-02": 1440,
-      "2023-08-01": 1440
+      "2023-08-02": 1440
     }
   },
   {
@@ -3810,11 +3808,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sesseda.org.ico",
     "slug": "ses-seda",
     "status": "down",
-    "uptime": "69.28%",
+    "uptime": "69.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "68.13%",
+    "uptimeYear": "68.14%",
     "time": 2282,
     "timeDay": 0,
     "timeWeek": 0,
@@ -3947,8 +3945,7 @@
       "2023-08-05": 1440,
       "2023-08-04": 1440,
       "2023-08-03": 1440,
-      "2023-08-02": 1440,
-      "2023-08-01": 1440
+      "2023-08-02": 1440
     }
   }
 ]
