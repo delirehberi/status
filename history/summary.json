@@ -343,7 +343,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tarihisanat.com.ico",
     "slug": "tarihi-sanat",
     "status": "down",
-    "uptime": "56.36%",
+    "uptime": "56.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -354,7 +354,7 @@
     "timeMonth": 0,
     "timeYear": 492,
     "dailyMinutesDown": {
-      "2024-08-28": 706,
+      "2024-08-28": 719,
       "2024-08-27": 1440,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
@@ -1195,7 +1195,7 @@
     "timeMonth": 0,
     "timeYear": 789,
     "dailyMinutesDown": {
-      "2024-08-28": 706,
+      "2024-08-28": 719,
       "2024-08-27": 1440,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
@@ -1912,13 +1912,13 @@
     "url": "https://elcineksi.com",
     "icon": "https://icons.duckduckgo.com/ip3/elcineksi.com.ico",
     "slug": "elcin-eksi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "81.67%",
-    "uptimeWeek": "93.64%",
+    "uptimeDay": "81.76%",
+    "uptimeWeek": "93.63%",
     "uptimeMonth": "98.25%",
     "uptimeYear": "99.42%",
-    "time": 782,
+    "time": 783,
     "timeDay": 2091,
     "timeWeek": 2148,
     "timeMonth": 1612,
@@ -1950,7 +1950,7 @@
       "2024-04-09": 273,
       "2024-04-08": 378,
       "2024-04-07": 466,
-      "2024-04-06": 491
+      "2024-04-06": 474
     }
   },
   {
@@ -2453,7 +2453,7 @@
     "timeMonth": 0,
     "timeYear": 965,
     "dailyMinutesDown": {
-      "2024-08-28": 706,
+      "2024-08-28": 719,
       "2024-08-27": 1440,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
@@ -2750,7 +2750,7 @@
     "timeMonth": 0,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2024-08-28": 706,
+      "2024-08-28": 719,
       "2024-08-27": 1440,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
@@ -3113,7 +3113,7 @@
     "uptime": "82.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "63.88%",
+    "uptimeMonth": "63.85%",
     "uptimeYear": "74.96%",
     "time": 544,
     "timeDay": 0,
@@ -3121,7 +3121,7 @@
     "timeMonth": 438,
     "timeYear": 506,
     "dailyMinutesDown": {
-      "2024-08-28": 706,
+      "2024-08-28": 719,
       "2024-08-27": 1440,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
