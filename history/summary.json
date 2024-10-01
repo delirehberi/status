@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/emre.xyz.ico",
     "slug": "emre-xyz",
     "status": "up",
-    "uptime": "91.73%",
+    "uptime": "91.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "90.06%",
-    "time": 267,
-    "timeDay": 131,
-    "timeWeek": 119,
-    "timeMonth": 129,
-    "timeYear": 162,
+    "time": 266,
+    "timeDay": 129,
+    "timeWeek": 132,
+    "timeMonth": 132,
+    "timeYear": 161,
     "dailyMinutesDown": {
       "2024-06-19": 17,
       "2024-06-05": 75,
@@ -54,8 +54,7 @@
       "2023-11-03": 1440,
       "2023-11-02": 1440,
       "2023-11-01": 580,
-      "2023-10-03": 1147,
-      "2023-10-02": 631
+      "2023-10-03": 1147
     }
   },
   {
@@ -64,16 +63,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bilimma.com.ico",
     "slug": "bilimma",
     "status": "up",
-    "uptime": "79.20%",
+    "uptime": "79.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "53.28%",
-    "time": 2448,
-    "timeDay": 582,
-    "timeWeek": 609,
-    "timeMonth": 609,
-    "timeYear": 1657,
+    "time": 2436,
+    "timeDay": 546,
+    "timeWeek": 600,
+    "timeMonth": 600,
+    "timeYear": 1638,
     "dailyMinutesDown": {
       "2024-05-27": 950,
       "2024-05-26": 1440,
@@ -250,8 +249,7 @@
       "2023-11-03": 1440,
       "2023-11-02": 1440,
       "2023-11-01": 578,
-      "2023-10-03": 164,
-      "2023-10-02": 423
+      "2023-10-03": 164
     }
   },
   {
@@ -260,15 +258,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.eresbiotech.com.ico",
     "slug": "eres",
     "status": "up",
-    "uptime": "92.03%",
+    "uptime": "92.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "86.45%",
-    "time": 1353,
-    "timeDay": 1185,
-    "timeWeek": 1311,
-    "timeMonth": 1226,
+    "time": 1349,
+    "timeDay": 1267,
+    "timeWeek": 1322,
+    "timeMonth": 1237,
     "timeYear": 1193,
     "dailyMinutesDown": {
       "2024-08-30": 19,
@@ -332,8 +330,7 @@
       "2023-11-04": 1440,
       "2023-11-03": 1440,
       "2023-11-02": 1440,
-      "2023-11-01": 578,
-      "2023-10-02": 315
+      "2023-11-01": 578
     }
   },
   {
@@ -342,18 +339,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tarihisanat.com.ico",
     "slug": "tarihi-sanat",
     "status": "down",
-    "uptime": "54.13%",
+    "uptime": "54.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "15.61%",
-    "time": 540,
+    "time": 538,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 492,
     "dailyMinutesDown": {
-      "2024-09-30": 4,
+      "2024-10-01": 4,
+      "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -664,8 +662,7 @@
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
-      "2023-10-03": 1440,
-      "2023-10-02": 1440
+      "2023-10-03": 1440
     }
   },
   {
@@ -674,7 +671,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ekog.org.ico",
     "slug": "ekog",
     "status": "down",
-    "uptime": "65.33%",
+    "uptime": "65.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -683,7 +680,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1231,
+    "timeYear": 1234,
     "dailyMinutesDown": {
       "2024-05-27": 951,
       "2024-05-26": 1440,
@@ -880,8 +877,7 @@
       "2023-11-03": 1440,
       "2023-11-02": 1440,
       "2023-11-01": 577,
-      "2023-10-03": 1137,
-      "2023-10-02": 628
+      "2023-10-03": 1137
     }
   },
   {
@@ -899,7 +895,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 992,
+    "timeYear": 993,
     "dailyMinutesDown": {
       "2024-05-27": 950,
       "2024-05-26": 1440,
@@ -949,7 +945,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hedef.im.ico",
     "slug": "hedef",
     "status": "down",
-    "uptime": "78.01%",
+    "uptime": "78.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -958,7 +954,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 487,
+    "timeYear": 489,
     "dailyMinutesDown": {
       "2024-05-27": 951,
       "2024-05-26": 1440,
@@ -1141,8 +1137,7 @@
       "2023-11-04": 1440,
       "2023-11-03": 1440,
       "2023-11-02": 1440,
-      "2023-11-01": 577,
-      "2023-10-02": 314
+      "2023-11-01": 577
     }
   },
   {
@@ -1151,10 +1146,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/acikbelediye.com.ico",
     "slug": "acikbelediye",
     "status": "down",
-    "uptime": "7.58%",
+    "uptime": "7.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "11.01%",
     "time": 789,
     "timeDay": 0,
@@ -1162,7 +1157,8 @@
     "timeMonth": 0,
     "timeYear": 789,
     "dailyMinutesDown": {
-      "2024-09-30": 4,
+      "2024-10-01": 4,
+      "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -1488,8 +1484,7 @@
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
-      "2023-10-03": 1440,
-      "2023-10-02": 1440
+      "2023-10-03": 1440
     }
   },
   {
@@ -1498,18 +1493,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/workouse.com.ico",
     "slug": "workouse",
     "status": "down",
-    "uptime": "62.69%",
+    "uptime": "62.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "48.77%",
-    "uptimeYear": "50.21%",
-    "time": 614,
-    "timeDay": 173,
-    "timeWeek": 152,
-    "timeMonth": 634,
-    "timeYear": 652,
+    "uptimeMonth": "45.48%",
+    "uptimeYear": "49.94%",
+    "time": 613,
+    "timeDay": 191,
+    "timeWeek": 154,
+    "timeMonth": 591,
+    "timeYear": 651,
     "dailyMinutesDown": {
-      "2024-09-30": 4,
+      "2024-10-01": 4,
+      "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -1694,8 +1690,7 @@
       "2023-11-03": 1440,
       "2023-11-02": 1440,
       "2023-11-01": 576,
-      "2023-10-03": 1137,
-      "2023-10-02": 627
+      "2023-10-03": 1137
     }
   },
   {
@@ -1704,12 +1699,12 @@
     "icon": "https://icons.duckduckgo.com/ip3/electrouse.com.ico",
     "slug": "electrouse",
     "status": "down",
-    "uptime": "68.92%",
+    "uptime": "68.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "55.22%",
-    "time": 955,
+    "time": 956,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -1883,8 +1878,7 @@
       "2023-10-25": 1440,
       "2023-10-24": 1440,
       "2023-10-23": 1420,
-      "2023-10-22": 223,
-      "2023-10-02": 313
+      "2023-10-22": 223
     }
   },
   {
@@ -1896,13 +1890,13 @@
     "uptime": "99.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.94%",
+    "uptimeMonth": "99.38%",
     "uptimeYear": "99.34%",
     "time": 904,
-    "timeDay": 738,
-    "timeWeek": 860,
-    "timeMonth": 2137,
-    "timeYear": 1071,
+    "timeDay": 1160,
+    "timeWeek": 900,
+    "timeMonth": 1991,
+    "timeYear": 1072,
     "dailyMinutesDown": {
       "2024-09-13": 28,
       "2024-09-02": 44,
@@ -1943,16 +1937,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/arkeozooloji.com.ico",
     "slug": "arkeozooloji",
     "status": "down",
-    "uptime": "61.17%",
+    "uptime": "61.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "42.22%",
-    "time": 693,
+    "time": 692,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 807,
+    "timeYear": 817,
     "dailyMinutesDown": {
       "2024-05-27": 951,
       "2024-05-26": 1440,
@@ -2175,7 +2169,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ankaranindogasi.com.ico",
     "slug": "ankaranin-dogasi",
     "status": "down",
-    "uptime": "43.17%",
+    "uptime": "43.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -2184,7 +2178,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 642,
+    "timeYear": 647,
     "dailyMinutesDown": {
       "2024-05-27": 951,
       "2024-05-26": 1440,
@@ -2395,18 +2389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/historyofart.emre.xyz.ico",
     "slug": "history-of-art",
     "status": "down",
-    "uptime": "39.43%",
+    "uptime": "39.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "16.23%",
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "15.96%",
     "time": 1708,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 910,
+    "timeYear": 908,
     "dailyMinutesDown": {
-      "2024-09-30": 4,
+      "2024-10-01": 4,
+      "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -2714,8 +2709,7 @@
       "2023-11-03": 1440,
       "2023-11-02": 1440,
       "2023-11-01": 575,
-      "2023-10-03": 1137,
-      "2023-10-02": 626
+      "2023-10-03": 1137
     }
   },
   {
@@ -2724,18 +2718,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/aya.emre.xyz.ico",
     "slug": "aydin-yazilimci-agi",
     "status": "down",
-    "uptime": "25.44%",
+    "uptime": "25.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "3.51%",
-    "time": 145,
+    "time": 144,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 532,
     "dailyMinutesDown": {
-      "2024-09-30": 4,
+      "2024-10-01": 4,
+      "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
       "2024-09-27": 1440,
@@ -3085,8 +3080,7 @@
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
-      "2023-10-03": 1440,
-      "2023-10-02": 1440
+      "2023-10-03": 1440
     }
   },
   {
@@ -3095,16 +3089,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/getcertifly.com.ico",
     "slug": "certifly",
     "status": "up",
-    "uptime": "79.30%",
+    "uptime": "79.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "35.91%",
+    "uptimeMonth": "42.49%",
     "uptimeYear": "69.21%",
     "time": 534,
-    "timeDay": 561,
-    "timeWeek": 511,
-    "timeMonth": 509,
-    "timeYear": 487,
+    "timeDay": 577,
+    "timeWeek": 514,
+    "timeMonth": 514,
+    "timeYear": 488,
     "dailyMinutesDown": {
       "2024-09-18": 717,
       "2024-09-17": 1440,
@@ -3246,10 +3240,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 386,
-    "timeDay": 626,
-    "timeWeek": 469,
-    "timeMonth": 453,
-    "timeYear": 370,
+    "timeDay": 588,
+    "timeWeek": 466,
+    "timeMonth": 463,
+    "timeYear": 372,
     "dailyMinutesDown": {
       "2023-12-03": 67
     }
@@ -3260,11 +3254,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bilimkadinlari.com.ico",
     "slug": "bilim-kadinlari",
     "status": "down",
-    "uptime": "30.59%",
+    "uptime": "30.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "45.27%",
+    "uptimeYear": "45.54%",
     "time": 1131,
     "timeDay": 0,
     "timeWeek": 0,
@@ -3477,8 +3471,7 @@
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
-      "2023-10-03": 1440,
-      "2023-10-02": 1440
+      "2023-10-03": 1440
     }
   },
   {
@@ -3487,7 +3480,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/adustt.com.ico",
     "slug": "adu-stt",
     "status": "down",
-    "uptime": "55.36%",
+    "uptime": "55.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -3496,7 +3489,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1189,
+    "timeYear": 1187,
     "dailyMinutesDown": {
       "2024-05-27": 950,
       "2024-05-26": 1440,
@@ -3660,8 +3653,7 @@
       "2023-11-03": 1440,
       "2023-11-02": 1440,
       "2023-11-01": 574,
-      "2023-10-03": 1138,
-      "2023-10-02": 625
+      "2023-10-03": 1138
     }
   },
   {
@@ -3670,7 +3662,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sesseda.org.ico",
     "slug": "ses-seda",
     "status": "down",
-    "uptime": "72.73%",
+    "uptime": "72.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -3679,7 +3671,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 818,
+    "timeYear": 821,
     "dailyMinutesDown": {
       "2024-05-27": 950,
       "2024-05-26": 1440,
